@@ -13,17 +13,17 @@
 
 ## 支持的 IDE
 
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/CLion_icon.svg" width="30" alt="CLion logo.">CLion
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/DataGrip_icon.svg" width="30" alt="CLion logo.">DataGrip
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/DataSpell_icon.svg" width="30" alt="CLion logo.">DataSpell
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/GoLand_icon.svg" width="30" alt="CLion logo.">GoLand
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="30" alt="CLion logo.">IntelliJ IDEA
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PhpStorm_icon.svg" width="30" alt="CLion logo.">PhpStorm
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" width="30" alt="CLion logo.">PyCharm
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/Rider_icon.svg" width="30" alt="CLion logo.">Rider
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/RubyMine_icon.svg" width="30" alt="CLion logo.">RubyMine
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/RustRover_icon.svg" width="30" alt="CLion logo.">RustRover
-- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/WebStorm_icon.svg" width="30" alt="CLion logo.">WebStorm
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/CLion_icon.svg" width="25" alt="CLion logo.">CLion
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/DataGrip_icon.svg" width="25" alt="CLion logo.">DataGrip
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/DataSpell_icon.svg" width="25" alt="CLion logo.">DataSpell
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/GoLand_icon.svg" width="25" alt="CLion logo.">GoLand
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="25" alt="CLion logo.">IntelliJ IDEA
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PhpStorm_icon.svg" width="25" alt="CLion logo.">PhpStorm
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/PyCharm_icon.svg" width="25" alt="CLion logo.">PyCharm
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/Rider_icon.svg" width="25" alt="CLion logo.">Rider
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/RubyMine_icon.svg" width="25" alt="CLion logo.">RubyMine
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/RustRover_icon.svg" width="25" alt="CLion logo.">RustRover
+- <img src="https://resources.jetbrains.com.cn/storage/products/company/brand/logos/WebStorm_icon.svg" width="25" alt="CLion logo.">WebStorm
 
 ## 使用方法
 
